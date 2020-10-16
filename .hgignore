@@ -1,0 +1,10 @@
+syntax: regexp
+(^|/)dist$
+(^|/)build$
+(^|/)\.tox$
+(^|/)\.eggs$
+\.egg-info$
+\.pyc$
+\.rej$
+\.orig$
+~$
